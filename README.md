@@ -1,4 +1,4 @@
-# game-project-Harvard-SSP
+#Harvard-SSP-Game-Project-Final
 Final Project 
 Ramsha Bilal
 
